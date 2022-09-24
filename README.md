@@ -1,6 +1,6 @@
 <h3>Hi, I'm Agastus!</h3>
 <ul>
-  <li>Computer Science Freshman</li>
+  <li>Computer Science Sophomore</li>
   <li>Currently learning Web Development</li>
 </ul>
 
