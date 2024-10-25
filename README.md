@@ -1,6 +1,6 @@
 <h2>Hi 👋, I'm Agastus!</h2>
 <ul>
-  <li>Computer Science Junior</li>
+  <li>Computer Science Senior</li>
   <li>Full Stack Developer</li>
 </ul>
 <h3>Connect with me:</h3>
